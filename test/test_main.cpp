@@ -1,4 +1,4 @@
-?#include "gtest.h"
+#include "gtest.h"
 #include "Translator.h"
 
 int main(int argc, char** argv)
